@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">भाषा बदलें</string>
+    <string name="action_settings">समायोजन</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="hello_first_fragment">नमस्कार पहला अंश</string>
+</resources>

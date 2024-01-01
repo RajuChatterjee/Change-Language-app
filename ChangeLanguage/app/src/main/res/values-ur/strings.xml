@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">زبان تبدیل کریں</string>
+    <string name="action_settings">ترتیبات</string>
+    <string name="change_language">زبان تبدیل کریں</string>
+    <string name="hello_first_fragment">ہیلو پہلا ٹکڑا</string>
+</resources>

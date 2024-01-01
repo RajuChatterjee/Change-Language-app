@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ভাষা পরিবর্তন করুন</string>
+    <string name="action_settings">সেটিংস</string>
+    <string name="change_language">ভাষা পরিবর্তন করুন</string>
+    <string name="hello_first_fragment">হ্যালো প্রথম খণ্ড</string>
+</resources>
